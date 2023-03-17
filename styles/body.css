@@ -1,0 +1,39 @@
+.container__lista{
+display: flex;
+justify-content: space-between;
+padding: 0.5em;
+}
+.lista-texto{
+    text-align: center;
+}
+.lista-link{
+    text-decoration: none;
+    color: var(--preto);
+}
+
+.container__imagem{
+    padding: 1em;
+}
+
+.email_titulo{
+    padding: 0.5em;
+    font-weight: 700;
+    font-size: 24px;
+}
+.email_texto{
+    padding: 0.5em;
+    margin-left: 1em;
+}
+
+.email{
+    padding: 0.3em;
+margin-left: 7.5em;
+border: 1px solid var(--vermelho--sangue);
+border-radius: 16px;
+}
+
+.email::placeholder{
+    padding-top: 0.5em;
+    padding-left: 2em;
+
+}

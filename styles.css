@@ -1,0 +1,22 @@
+@import url(../nubia_pratas/styles/header.css);
+@import url(../nubia_pratas/styles/body.css);
+@import url(../nubia_pratas/styles/footer.css);
+
+:root{
+ --preto: #0b090a;
+ --vermelho--sangue: #660708;
+ --vermelho--claro: #e5383b;
+ --prata: #d3d3d3;
+ --prata--escuro: #b1a7a6;
+ --branco: #eeeeee;
+ --fonte--principal: 'Vollkorn'
+
+
+
+}
+
+body{
+    background: var(--branco) ;
+    font-family: 'Vollkorn';
+    color: #0b090a;
+}
