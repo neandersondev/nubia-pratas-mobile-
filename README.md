@@ -1,3 +1,3 @@
 # nubia-pratas-mobile-
-Site Nubia Pratas (protótipo autoral)
-Projetado em HTML e CSS, estático 
+<h2> Site Nubia Pratas (protótipo autoral) </h2>
+ <p> Projetado em HTML e CSS, estático </p>
